@@ -6,3 +6,6 @@
 
 ## Tutorial Material
 - [CMake hands-on workshop](https://enccs.github.io/cmake-workshop/)
+
+## Shared Library
+- [How to create a shared library with cmake?](https://stackoverflow.com/questions/17511496/how-to-create-a-shared-library-with-cmake?rq=2)
